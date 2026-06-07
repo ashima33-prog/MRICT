@@ -1,0 +1,10 @@
+torch
+torchvision
+nibabel
+numpy
+scikit-image
+imageio
+matplotlib
+streamlit
+opencv-python
+pillow
